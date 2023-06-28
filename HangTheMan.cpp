@@ -1,8 +1,3 @@
-//TASK 2: HANG THE MAN
-//NAME: JUNAID SALEEM
-//REG NO: 2022243
-//SECTION: B
-//INSTRUCTOR: SIR ZAHID HALEEM
 
 /*NOTE: I have made this for pre-defined countries names;
 If you want a change in names[] array then also change "total_names" and "max_name_length" in accordance with it*/
